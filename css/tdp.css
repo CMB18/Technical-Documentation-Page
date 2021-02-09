@@ -1,0 +1,38 @@
+body { 
+    font-family: sans-serif;
+    background-color: #20212a;
+    color: #d7463d;
+}
+header {
+    font-size: 30px;
+}
+#navbar {
+    position: fixed;
+}
+.navbar-elm {
+    list-style-type: none;
+    margin: '0px';
+    padding: 0px;
+    width: 300px;
+    background-color: #ffffff;
+    height: 36vh;
+    overflow: auto;
+    color: #1a1a1a;
+    transition: border-radius .5s ease;
+    display: block;
+}
+.navbar-elm:hover {
+border-radius: 40px;
+}
+.nav-link {
+    display: block;
+    color: block;
+    padding: 15px 16px;
+    text-decoration: none;
+    list-style-type: none;
+    text-align: center;
+    font-size: 18px;
+}
+nav-link:hover
+
+}
